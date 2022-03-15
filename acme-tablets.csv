@@ -1,0 +1,40 @@
+﻿order,year,gen,model,units,price,yearofsales,note
+1,2010,1st,ACME Tablet,290,799,1,introduced
+2,2011,1st,ACME Tablet,549,799,2,
+3,2012,1st,ACME Tablet,128,499,3,
+4,2013,1st,ACME Tablet,30,399,4,discontinued
+5,2012,2nd,ACME Tablet 2,1261,599,1,introduced
+6,2013,2nd,ACME Tablet 2,1649,499,2,
+7,2014,2nd,ACME Tablet 2,357,499,3,
+8,2015,2nd,ACME Tablet 2,298,499,4,discontinued
+9,2013,2nd,ACME Tablet 2 mini,617,599,1,introduced
+10,2014,2nd,ACME Tablet 2 mini,578,399,2,
+11,2015,2nd,ACME Tablet 2 mini,583,399,3,
+12,2016,2nd,ACME Tablet 2 mini,506,379,4,
+13,2017,2nd,ACME Tablet 2 mini,156,359,5,
+14,2018,2nd,ACME Tablet 2 mini,160,349,6,
+15,2019,2nd,ACME Tablet 2 mini,88,349,7,discontinued
+16,2014,3rd,ACME Tablet 3,834,599,1,introduced
+17,2015,3rd,ACME Tablet 3,728,499,2,
+18,2016,3rd,ACME Tablet 3,232,499,3,
+19,2017,3rd,ACME Tablet 3,97,499,4,discontinued
+20,2016,4th,ACME Tablet 4,662,899,1,introduced
+21,2017,4th,ACME Tablet 4,732,799,2,
+22,2018,4th,ACME Tablet 4,978,799,3,
+23,2019,4th,ACME Tablet 4,205,699,4,discontinued
+24,2016,4th,ACME Tablet 4 Ultra,1297,1199,1,introduced
+25,2017,4th,ACME Tablet 4 Ultra,884,1199,2,
+26,2018,4th,ACME Tablet 4 Ultra,323,1099,3,
+27,2019,4th,ACME Tablet 4 Ultra,461,899,4,discontinued
+28,2018,5th,ACME Tablet A,420,999,1,introduced
+29,2019,5th,ACME Tablet A,418,999,2,
+30,2020,5th,ACME Tablet A,700,799,3,discontinued
+31,2018,5th,ACME Tablet A Ultra,1603,1199,1,introduced
+32,2019,5th,ACME Tablet A Ultra,1362,1199,2,
+33,2020,5th,ACME Tablet A Ultra,273,1149,3,discontinued
+34,2020,6th,ACME Tablet 6,514,1399,1,introduced
+35,2020,6th,ACME Tablet 6 Ultra,1249,1599,1,introduced
+36,2020,6th,ACME Tablet 6 Ultra Premium,271,1999,1,introduced
+37,2021,6th,ACME Tablet 6,104,1299,2,
+38,2021,6th,ACME Tablet 6 Ultra,458,1599,2,
+39,2021,6th,ACME Tablet 6 Ultra Premium,56,1799,2,
